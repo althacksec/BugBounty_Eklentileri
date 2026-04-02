@@ -1,4 +1,4 @@
-# Bug Bounty Eklentileri
+# Bug Bounty & Security Browser Extensions
 > Siber güvenlik araştırmalarında tarayıcıyı tam donanımlı bir laboratuvara dönüştüren; Bug Bounty avcıları ve bağımsız araştırmacılar için özel olarak küratörlüğü yapılmış, test edilmiş ve onaylanmış profesyonel eklentiler listesi.
 
 ## 📖 İçindekiler
